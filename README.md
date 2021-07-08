@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Programming languages and tools I use 
 **- Languages**
 
-  ![Python](https://img.shields.io/badge/Python?style=for-the-badge&logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
    
   ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
   
