@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Programming languages and tools I use 
 **- Languages**
 
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python?style=for-the-badge&logo=python&logoColor=white)
+   
   ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
   
 **- Machine Learning & Deep Learning**
@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
