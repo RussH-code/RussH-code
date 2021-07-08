@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="center>Russell Hung<h2>
+<h2 align="center>Russell Hung</h2>
 
 <h3 align="center">Bioinformatician | Data Analysis Enthusiast | Programmer</h3>
 
