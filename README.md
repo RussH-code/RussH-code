@@ -72,6 +72,8 @@ Here are some ideas to get you started:
 
    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+   
+----
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RussH-code&hide=roff,jupyter%20notebook&layout=compact)](https://github.com/RussH-code/github-readme-stats)
