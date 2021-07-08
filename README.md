@@ -23,8 +23,13 @@ Here are some ideas to get you started:
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   
   ![R Statistics](https://img.shields.io/badge/-R-05122A?style=for-the-badge&logo=R&logoColor=276DC3) 
+  
+**- Data Science**
+
+  ![numpy]
   
 **- Machine Learning & Deep Learning**
 
