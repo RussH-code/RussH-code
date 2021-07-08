@@ -13,6 +13,8 @@ I am a master's student in bioinformatics at the University of Bristol. Currentl
 Always learning new technologies. GitHub is a space where I share my learning progress and learn from others. 
 ----
 
+![](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
 <!--
 **RussH-code/RussH-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Programming languages and tools I use 
+## Programming languages and tools I use 
 **- Languages**
 
   ![python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white")
