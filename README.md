@@ -59,7 +59,7 @@ Here are some ideas to get you started:
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RussH-code&hide=roff,jupyter%20notebook)](https://github.com/RussH-code/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RussH-code&hide=roff,jupyter%20notebook&layout=compact)](https://github.com/RussH-code/github-readme-stats)
 
 <a href="https://twitter.com/russhung1"><img src="https://img.shields.io/badge/-russhung1-blue?logo=twitter&style=flat-square"/></a>
 
