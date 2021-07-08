@@ -42,3 +42,8 @@ Here are some ideas to get you started:
 
   ![MYSQL](https://img.shields.io/badge/-MySQL-9cf?style=for-the-badge&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=for-the-badge&logo=mongodb)
+  
+  
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+  ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
