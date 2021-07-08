@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h2 align="center>Russell Hung<h2>
+
+<h3 align="center">Bioinformatician | Data Analysis Enthusiast | Programmer</h3>
+
 I am a master's student in bioinformatics at the University of Bristol. Currently working in Dr. Tom Williams labs in phylogenetics and comparative genomics. Apart from bioinformatics, I am also interested in 
 
 * Statistics
@@ -7,9 +11,6 @@ I am a master's student in bioinformatics at the University of Bristol. Currentl
 * Software/Web development
 
 Always learning new technologies. GitHub is a space where I share my learning progress and learn from others. 
-
-<h3 align="center">Bioinformatician | Data Analysis Enthusiast | Programmer</h3>
-
 
 <!--
 **RussH-code/RussH-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
