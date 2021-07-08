@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
-
 ## Programming languages and tools I use 
 **- Languages**
 
@@ -43,6 +41,8 @@ Here are some ideas to get you started:
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  
+  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
   
 **- Web Development**
 
