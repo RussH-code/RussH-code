@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I am a master's student in bioinformatics at the University of Bristol.
+I am a master's student in bioinformatics at the University of Bristol. Currently working in Dr. Tom Williams labs in phylogenetics and comparative genomics. Apart from bioinformatics, I am also interested in 
+
+* Statistics
+* Machine learning/Deep learning
+* Software/Web development
+
+Always learning new technologies. GitHub is a space where I share my learning progress and learn from others. 
 
 <h3 align="center">Bioinformatician | Data Analysis Enthusiast | Programmer</h3>
 
@@ -10,7 +16,7 @@ I am a master's student in bioinformatics at the University of Bristol.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
