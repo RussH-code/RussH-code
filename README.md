@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-  ![MYSQL](https://img.shields.io/badge/-MySQL-9cf?style=for-the-badge&logo=mysql)
+  ![MYSQL](https://img.shields.io/badge/-MySQL-lightgrey?style=for-the-badge&logo=mysql)
