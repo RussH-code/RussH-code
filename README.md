@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 **- Languages**
 
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-   
   ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
   
 **- Machine Learning & Deep Learning**
