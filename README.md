@@ -35,14 +35,14 @@ Here are some ideas to get you started:
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![php](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   
+  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+  
 **- Data Science, Machine Learning & Deep Learning**
 
   ![Ketas](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  
-  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
   
 **- Web Development**
 
