@@ -11,6 +11,7 @@ I am a master's student in bioinformatics at the University of Bristol. Currentl
 * Software/Web development
 
 Always learning new technologies. GitHub is a space where I share my learning progress and learn from others. 
+
 ----
 <!--
 **RussH-code/RussH-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
