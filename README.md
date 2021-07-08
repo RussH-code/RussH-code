@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a master's student in bioinformatics at the University of Bristol.
+
+<h3 align="center">Bioinformatician | Data Analysis Enthusiast | Programmer</h3>
+
+
 <!--
 **RussH-code/RussH-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
