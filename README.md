@@ -1,4 +1,6 @@
-### Hi there 👋  I am <h2 align="center">Russell Hung</h2>
+### Hi there 👋  Welcome to my GitHub
+
+<h2 align="center">Russell Hung</h2>
 
 <h3 align="center">Bioinformatician | Data Analysis Enthusiast | Programmer</h3>
 
