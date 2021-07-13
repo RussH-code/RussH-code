@@ -76,7 +76,9 @@ Here are some ideas to get you started:
 ----
 ## Recent Projects
 
-1. 
+1. <a href="https://github.com/RussH-code/Neural-Network-Fundamentals">Neural Network Fundamentals</a>
+We look at the basics of implementing a neural network in regression and classification tasks. We cover basic concepts such as activations, loss and optimizers. We also go through common techniques such as learning rate scheduler, hyperparameter tuning and dropouts. We also include a section on image processing with Convolutional Neural Network (CNN).
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RussH-code&hide=roff,jupyter%20notebook&layout=compact)](https://github.com/RussH-code/github-readme-stats)
 
