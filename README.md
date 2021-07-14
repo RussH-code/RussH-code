@@ -82,7 +82,8 @@ We look at the basics of implementing a neural network in regression and classif
 <h3><a href="https://github.com/RussH-code/Party-room-music-controller">2. Django & React API app - Shared Music Controller</a></h3>
 We implement a shared music controller where a host can create a room and connect his Spotify account to the room through the Spotify API. Other people can join the room through a room code and (depending on settings) can control (pause/play) songs. People can also vote to skip a song. Once enough vote is gathered, the next song is played. The app framework is built on django, with the help of rest-framework to handle database operations and connecting to Spotify API. Finally, React JS is used to implement the frontend.
 
-<h3><a href="https://github.com/RussH-code/MySql-Independent-Project">3. MySQL Project - Music Store Database</a></h3>
+<h3><a href="https://github.com/RussH-code/MySql-Independent-Project">3. MySQL - Music Store Database Project</a></h3>
+As a data analyst of a popular music store, we explore their database and provide business-relevant insights. Concepts such as union, join, aggregate and wildcards are reviewed. Detailed codes and results are provided for easy follow along. We also tackle more complicated tasks such as finding summary statistics from multiple tables, and creating temporary tables.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RussH-code&hide=roff,jupyter%20notebook&layout=compact)](https://github.com/RussH-code/github-readme-stats)
 
