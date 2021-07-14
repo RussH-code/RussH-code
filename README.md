@@ -13,20 +13,6 @@ I am a master's student in bioinformatics at the University of Bristol. Currentl
 Always learning new technologies. GitHub is a space where I share my learning progress and learn from others. 
 
 ----
-<!--
-**RussH-code/RussH-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Programming languages and tools I use 
 **- Languages**
@@ -94,6 +80,9 @@ We classify three species of puffins based on their attributes such as beak leng
 4. Picking the best model
 
 Popular classification algorithms such as K-means clustering, logistic regression and naive bayes classifier are reviewed. Performance metrics like accuracy, precision and recall are also discussed.
+
+<h3><a href="">5. Statistics with R - 3 Species Lotka-Volterra Model</a></h3>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RussH-code&hide=roff,jupyter%20notebook&layout=compact)](https://github.com/RussH-code/github-readme-stats)
 
