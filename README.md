@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 <h3><a href="https://github.com/RussH-code/Neural-Network-Fundamentals">1. Neural Network Fundamentals</a></h3>
 We look at the basics of implementing a neural network in regression and classification tasks. We cover basic concepts such as activations, loss and optimizers. We also go through common techniques such as learning rate scheduler, hyperparameter tuning and dropouts. We also include a section on image processing with Convolutional Neural Network (CNN).
 
-<h3><a href=" ">2. Django & React API app - Shared Music Controller</a></h3>
+<h3><a href="https://github.com/RussH-code/Party-room-music-controller">2. Django & React API app - Shared Music Controller</a></h3>
 We implement a shared music controller where a host can create a room and connect his Spotify account to the room through the Spotify API. Other people can join the room through a room code and (depending on settings) can control (pause/play) songs. People can also vote to skip a song. Once enough vote is gathered, the next song is played. The app framework is built on django, with the help of rest-framework to handle database operations and connecting to Spotify API. Finally, React JS is used to implement the frontend.
   
 
