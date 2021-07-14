@@ -71,7 +71,7 @@ We implement a shared music controller where a host can create a room and connec
 <h3><a href="https://github.com/RussH-code/MySql-Independent-Project">3. MySQL - Music Store Database Project</a></h3>
 As a data analyst of a popular music store, we explore their database and provide business-relevant insights. Concepts such as union, join, aggregate and wildcards are reviewed. Detailed codes and results are provided for easy follow along. We also tackle more complicated tasks such as finding summary statistics from multiple tables, and creating temporary tables.
 
-<h3><a href="">4. ML Classification - Puffins Classifier with Scikit-learn</a></h3>
+<h3><a href="https://github.com/RussH-code/ML-Classification---Puffins-Classifier">4. ML Classification - Puffins Classifier with Scikit-learn</a></h3>
 We classify three species of puffins based on their attributes such as beak length and body mass. We will implement a standard machine learning workflow that covers 
 
 1. Data cleaning, wrangling, exploration and visualization
@@ -81,9 +81,10 @@ We classify three species of puffins based on their attributes such as beak leng
 
 Popular classification algorithms such as K-means clustering, logistic regression and naive bayes classifier are reviewed. Performance metrics like accuracy, precision and recall are also discussed.
 
-<h3><a href="">5. Statistics with R - 3 Species Lotka-Volterra Model</a></h3>
+<h3><a href="https://github.com/RussH-code/Three-Species-Lotka-Volterra-Model">5. Statistics with R - 3 Species Lotka-Volterra Model</a></h3>
+Here we explore ecology modelling concepts with R software. The Lotka-Volterra (LV) model describes the predator-prey dynamics in a natural habitat. In this project we aim to look at different factors and how they influence the populations. We also demonstrate how to use R to model differential equations, how to run code in parallel as well as creating high quality graphs. This project is implemented in Rmarkdown. 
 
-
+----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RussH-code&hide=roff,jupyter%20notebook&layout=compact)](https://github.com/RussH-code/github-readme-stats)
 
 <a href="https://twitter.com/russhung1"><img src="https://img.shields.io/badge/-russhung1-blue?logo=twitter&style=flat-square"/></a>
