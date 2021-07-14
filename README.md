@@ -87,12 +87,13 @@ As a data analyst of a popular music store, we explore their database and provid
 
 <h3><a href="">4. ML Classification - Puffins Classifier</a></h3>
 We classify three species of puffins based on their attributes such as beak length and body mass. We will implement a standard machine learning workflow that covers 
+
 1. Data cleaning, wrangling, exploration and visualization
 2. Model fitting and hyperparameter tuning
 3. Model comparison and evaluations
 4. Picking the best model
 
-
+Popular classification algorithms such as K-means clustering, logistic regression and naive bayes classifier are reviewed. Performance metrics like accuracy, precision and recall are also discussed.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RussH-code&hide=roff,jupyter%20notebook&layout=compact)](https://github.com/RussH-code/github-readme-stats)
 
