@@ -85,6 +85,15 @@ We implement a shared music controller where a host can create a room and connec
 <h3><a href="https://github.com/RussH-code/MySql-Independent-Project">3. MySQL - Music Store Database Project</a></h3>
 As a data analyst of a popular music store, we explore their database and provide business-relevant insights. Concepts such as union, join, aggregate and wildcards are reviewed. Detailed codes and results are provided for easy follow along. We also tackle more complicated tasks such as finding summary statistics from multiple tables, and creating temporary tables.
 
+<h3><a href="">4. ML Classification - Puffins Classifier</a></h3>
+We classify three species of puffins based on their attributes such as beak length and body mass. We will implement a standard machine learning workflow that covers 
+1. Data cleaning, wrangling, exploration and visualization
+2. Model fitting and hyperparameter tuning
+3. Model comparison and evaluations
+4. Picking the best model
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RussH-code&hide=roff,jupyter%20notebook&layout=compact)](https://github.com/RussH-code/github-readme-stats)
 
 <a href="https://twitter.com/russhung1"><img src="https://img.shields.io/badge/-russhung1-blue?logo=twitter&style=flat-square"/></a>
