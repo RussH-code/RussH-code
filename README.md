@@ -62,7 +62,7 @@ Always learning new technologies. GitHub is a space where I share my learning pr
 ----
 ## Recent Projects
 
-<h3><a href="https://github.com/RussH-code/Neural-Network-Fundamentals">1. Neural Network Fundamentals</a></h3>
+<h3><a href="https://github.com/RussH-code/Neural-Network-Fundamentals">1. Neural Network Fundamentals - Tensorflow</a></h3>
 We look at the basics of implementing a neural network in regression and classification tasks. We cover basic concepts such as activations, loss and optimizers. We also go through common techniques such as learning rate scheduler, hyperparameter tuning and dropouts. We also include a section on image processing with Convolutional Neural Network (CNN).
 
 <h3><a href="https://github.com/RussH-code/Party-room-music-controller">2. Django & React API app - Shared Music Controller</a></h3>
@@ -71,7 +71,7 @@ We implement a shared music controller where a host can create a room and connec
 <h3><a href="https://github.com/RussH-code/MySql-Independent-Project">3. MySQL - Music Store Database Project</a></h3>
 As a data analyst of a popular music store, we explore their database and provide business-relevant insights. Concepts such as union, join, aggregate and wildcards are reviewed. Detailed codes and results are provided for easy follow along. We also tackle more complicated tasks such as finding summary statistics from multiple tables, and creating temporary tables.
 
-<h3><a href="">4. ML Classification - Puffins Classifier</a></h3>
+<h3><a href="">4. ML Classification - Puffins Classifier with Scikit-learn</a></h3>
 We classify three species of puffins based on their attributes such as beak length and body mass. We will implement a standard machine learning workflow that covers 
 
 1. Data cleaning, wrangling, exploration and visualization
