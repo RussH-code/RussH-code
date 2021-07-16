@@ -30,7 +30,7 @@ Always learning new technologies. GitHub is a space where I share my learning pr
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)
+  ![Scikit-learn](https://img.shields.io/badge/Scikit_learn_logo_small.svg!-yellow?style=for-the-badge)
   
 **- Web Development**
 
