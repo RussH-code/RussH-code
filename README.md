@@ -4,6 +4,8 @@
 
 <h3 align="center">Bioinformatician | Data Analysis Enthusiast | Programmer</h3>
 
+My Interest
+
 * Statistics
 * Machine learning/Deep learning
 * Software/Web development
