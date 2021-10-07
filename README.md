@@ -4,8 +4,6 @@
 
 <h3 align="center">Bioinformatician | Data Analysis Enthusiast | Programmer</h3>
 
-I am a master's student in bioinformatics at the University of Bristol. Currently working in Dr. Tom Williams labs in phylogenetics and comparative genomics. Apart from bioinformatics, I am also interested in 
-
 * Statistics
 * Machine learning/Deep learning
 * Software/Web development
